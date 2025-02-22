@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, error in HTML and JavaScript.  A div is hidden using JavaScript, but there's no provision to make it visible again.  The solution shows how to correctly toggle the visibility of the div using JavaScript.
